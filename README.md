@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -56,3 +57,6 @@ SonarQube: La prueba de código estático con SonarQube es opcional y no fue com
 
 Despliegue
 Puedes desplegar esta aplicación en servicios como Vercel, Netlify o cualquier otro servicio de hosting de sitios estáticos.
+=======
+# Apppruebatecnica
+>>>>>>> 0c00d36e1a13953f0728ae786dc1b071fc3a3d18
